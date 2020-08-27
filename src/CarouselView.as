@@ -1,8 +1,11 @@
 package src
 {
 /**
-* A looping carousel of 15 item classes showing 7 items at a time. There are buttons to animate in/out and control the carousel. The Carousel can animate left and right. The Selected index is obvious. Items marked with animation level 1 or greater have unique animations and audio events on selection.
- */
+* A looping carousel of 15 item classes showing 7 items at a time. 
+* There are buttons to animate in/out and control the carousel. 
+* The Carousel can animate left and right. The Selected index is obvious. 
+* Items marked with animation level 1 or greater have unique animations and audio events on selection.
+*/
 	
 	import com.greensock.TimelineMax;
 	import flash.display.DisplayObjectContainer;
